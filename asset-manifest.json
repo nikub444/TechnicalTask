@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/TechnicalTask/static/css/main.a9512394.chunk.css",
+    "main.js": "/TechnicalTask/static/js/main.85cdb172.chunk.js",
+    "main.js.map": "/TechnicalTask/static/js/main.85cdb172.chunk.js.map",
+    "runtime-main.js": "/TechnicalTask/static/js/runtime-main.4ff6c183.js",
+    "runtime-main.js.map": "/TechnicalTask/static/js/runtime-main.4ff6c183.js.map",
+    "static/js/2.ceea1957.chunk.js": "/TechnicalTask/static/js/2.ceea1957.chunk.js",
+    "static/js/2.ceea1957.chunk.js.map": "/TechnicalTask/static/js/2.ceea1957.chunk.js.map",
+    "static/js/3.fea45e3e.chunk.js": "/TechnicalTask/static/js/3.fea45e3e.chunk.js",
+    "static/js/3.fea45e3e.chunk.js.map": "/TechnicalTask/static/js/3.fea45e3e.chunk.js.map",
+    "index.html": "/TechnicalTask/index.html",
+    "static/css/main.a9512394.chunk.css.map": "/TechnicalTask/static/css/main.a9512394.chunk.css.map",
+    "static/js/2.ceea1957.chunk.js.LICENSE.txt": "/TechnicalTask/static/js/2.ceea1957.chunk.js.LICENSE.txt",
+    "static/media/Snake.styles.css": "/TechnicalTask/static/media/arcade.dd873117.jpg",
+    "static/media/destructButton.css": "/TechnicalTask/static/media/bomb1.0d7c5f0c.jpg",
+    "static/media/Man.styling.css": "/TechnicalTask/static/media/sky2.7b3fb2c3.jpg",
+    "static/media/facebookIcon.c7e95eca.png": "/TechnicalTask/static/media/facebookIcon.c7e95eca.png",
+    "static/media/gameboy.115a2702.png": "/TechnicalTask/static/media/gameboy.115a2702.png",
+    "static/media/githubIcon.987334e9.png": "/TechnicalTask/static/media/githubIcon.987334e9.png",
+    "static/media/linkedinIcon.59204961.png": "/TechnicalTask/static/media/linkedinIcon.59204961.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ff6c183.js",
+    "static/js/2.ceea1957.chunk.js",
+    "static/css/main.a9512394.chunk.css",
+    "static/js/main.85cdb172.chunk.js"
+  ]
+}
