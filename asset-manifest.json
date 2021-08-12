@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TechnicalTask/static/css/main.abb37950.chunk.css",
-    "main.js": "/TechnicalTask/static/js/main.ad27ddaf.chunk.js",
-    "main.js.map": "/TechnicalTask/static/js/main.ad27ddaf.chunk.js.map",
+    "main.css": "/TechnicalTask/static/css/main.19e5e0c3.chunk.css",
+    "main.js": "/TechnicalTask/static/js/main.bf712308.chunk.js",
+    "main.js.map": "/TechnicalTask/static/js/main.bf712308.chunk.js.map",
     "runtime-main.js": "/TechnicalTask/static/js/runtime-main.d05dbe5c.js",
     "runtime-main.js.map": "/TechnicalTask/static/js/runtime-main.d05dbe5c.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/TechnicalTask/static/css/2.7fc9bc2b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.4bdb3958.chunk.js.map": "/TechnicalTask/static/js/3.4bdb3958.chunk.js.map",
     "index.html": "/TechnicalTask/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/TechnicalTask/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.abb37950.chunk.css.map": "/TechnicalTask/static/css/main.abb37950.chunk.css.map",
+    "static/css/main.19e5e0c3.chunk.css.map": "/TechnicalTask/static/css/main.19e5e0c3.chunk.css.map",
     "static/js/2.169d2056.chunk.js.LICENSE.txt": "/TechnicalTask/static/js/2.169d2056.chunk.js.LICENSE.txt",
     "static/media/Snake.styles.css": "/TechnicalTask/static/media/arcade.dd873117.jpg",
     "static/media/Man.styling.css": "/TechnicalTask/static/media/sky2.7b3fb2c3.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.d05dbe5c.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.169d2056.chunk.js",
-    "static/css/main.abb37950.chunk.css",
-    "static/js/main.ad27ddaf.chunk.js"
+    "static/css/main.19e5e0c3.chunk.css",
+    "static/js/main.bf712308.chunk.js"
   ]
 }
